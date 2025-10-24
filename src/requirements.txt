@@ -1,0 +1,3 @@
+vk-api
+aiohttp
+python-dotenv
