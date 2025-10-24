@@ -1,0 +1,5 @@
+vk-api==11.9.9
+aiohttp==3.8.6
+python-dotenv==1.0.0
+requests
+dataclasses
